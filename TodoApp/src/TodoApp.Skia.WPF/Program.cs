@@ -1,3 +1,0 @@
-namespace TodoApp.Skia.Gtk
-{
-}

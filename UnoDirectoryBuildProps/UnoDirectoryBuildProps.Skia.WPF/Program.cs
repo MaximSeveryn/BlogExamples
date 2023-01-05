@@ -1,3 +1,0 @@
-namespace UnoDirectoryBuildProps.Skia.Gtk
-{
-}
